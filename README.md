@@ -17,13 +17,16 @@ See 'STL files" for 1 set of the hinges of each section
 Hinges are joined with a 3mm threaded rod
 ## Demonstration of opening/closing the lid
 https://youtu.be/0S7fGI_uiaY
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=0S7fGI_uiaY
 " target="_blank"><img src="http://img.youtube.com/vi/0S7fGI_uiaY/0.jpg" 
 alt="how to" width="500" /></a>
+
 ## Limitations/Improvements
 - There are 4 different parts for 1 set of hinges which makes it troublesome for manufacturing —> change the design of the hinge so that there are fewer different parts/each section of the lid only requires 1 set of hinges
 - Middle hinge buckle inwards into the microscope which causes confusion to the user on the way the lid should fold —> design a hinge that buckle outwards instead
 - Opening lid is unintuitive for initial users —> change lid mechanism
+
 
 That concludes this project 🎺!
 Special thanks to the people at Liang Research Group for the guidance and facilities! (https://liangresearch.com/)
