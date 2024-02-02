@@ -15,7 +15,6 @@ See 'DXF files' for the designs of the panels
 See 'STL files" for 1 set of the hinges of each section 
 
 Hinges are joined with a 3mm threaded rod
-
 ## Demonstration of opening/closing the lid
 https://youtu.be/0S7fGI_uiaY
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=0S7fGI_uiaY
