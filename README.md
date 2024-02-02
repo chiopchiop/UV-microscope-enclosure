@@ -14,7 +14,7 @@ See 'DXF files' for the designs of the panels
 *Figure 3. Since it was feedbacked that the hinge parts were difficult to identify, markings are added to the sides of the parts*\
 See 'STL files" for 1 set of the hinges of each section 
 
-Hinges are joined with a 3mm threaded rod
+After printing the hinges, 3mm heat inserts are installed on the holes of the hinges, 3mm screws is used to attach the hinges to the lid, and the hinges are joined with a 3mm threaded rod
 ## Demonstration of opening/closing the lid
 https://youtu.be/0S7fGI_uiaY
 
