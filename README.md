@@ -14,9 +14,8 @@ This would be the 1st prototype of building an enclosure for our UV microscope, 
 
 Hinges are joined with a 3mm threaded rod
 
-**Demonstration of opening/closing the lid**
+**Demonstration of opening/closing the lid**\
 https://youtu.be/0S7fGI_uiaY
-
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=0S7fGI_uiaY
 " target="_blank"><img src="http://img.youtube.com/vi/0S7fGI_uiaY/0.jpg" 
 alt="how to" width="500" /></a>
