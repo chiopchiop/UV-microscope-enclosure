@@ -2,9 +2,9 @@
 This would be the 1st prototype of building an enclosure for our UV microscope, this enclosure will fufil the minimum viable product (MVP):
 - Panels to cover the side of the microscope
 - A lid to cover the top and front of the microscope
-
+## Proposed idea
 <img src='https://github.com/chiopchiop/UV-microscope-enclosure/assets/135982821/329005e9-e5db-4b20-ba92-4124dadcda09' alt= 'Acrylic panels for the enclosure' width='500'>\
-*Figure 1. Proposed idea: Acrylic panels for the enclosure*\
+*Figure 1. Acrylic panels for the enclosure*\
 See 'DXF files' for the designs of the panels
 
 <img src='https://github.com/chiopchiop/UV-microscope-enclosure/assets/135982821/dc83dc10-70b4-4575-a41f-54e5265389ca' alt= '2 sets of hinges for each section and a handle at the front' width='500'>\
@@ -18,7 +18,6 @@ Hinges are joined with a 3mm threaded rod
 
 ## Demonstration of opening/closing the lid
 https://youtu.be/0S7fGI_uiaY
-
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=0S7fGI_uiaY
 " target="_blank"><img src="http://img.youtube.com/vi/0S7fGI_uiaY/0.jpg" 
 alt="how to" width="500" /></a>
